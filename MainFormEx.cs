@@ -47,6 +47,7 @@ namespace ToolControl
             coords.Add(86968, new Point(232, 685));
             coords.Add(95775, new Point(453, 685));
             coords.Add(88089, new Point(1030, 685));
+            coords.Add(99391, new Point(674, 685));
 
             // row 6
             coords.Add(86539, new Point( 232, 828));
